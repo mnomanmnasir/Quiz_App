@@ -121,10 +121,10 @@ const questions = [
     },
     {
         'que': ')What does CSS stands for',
-        'a': 'HTML',
-        'b': 'CSS',
-        'c': 'JAVASCRIPT',
-        'd': 'PHP',
+        'a': 'Hyper Text Markup Language',
+        'b': 'Cascading Style Sheet',
+        'c': 'JavaScript Object Notation',
+        'd': 'none of above',
         'correct': 'b'
     },
 ]
